@@ -9,3 +9,7 @@ New and intermediate DMs who want a structured, no-fluff reference for running b
 I am no professional writer, just someone who's been DMing for a good few years. This guidebook is opinionated, reflects my experiences and personal preferences. You don't have to agree with it. Take it as a "This is how Aravill would do it" kind of advice. 
 
 In my opinion, good DMing isn't about thorough planning, as much as it's about having a rough outline, or a "minimum viable product" and then improvising and pretending you had it planned all along. Having adventure ideas in your head is great - but you actually want to run them at some point. This guide focuses on that - keeping it simple, scaling down prep work and actually getting you to DM your game.
+
+## How to read the codex
+
+I use Obsidian to write and manage all my notes, including this guidebook. I suggest you do the same, it's an amazing tool.

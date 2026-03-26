@@ -6,3 +6,5 @@
 - Avrae discord bot rolls and rules references
 - DMG, PHB, MM
 	- And any other kind of resource
+- Obsidian
+	- For note taking and wiki creation
