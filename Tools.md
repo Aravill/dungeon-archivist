@@ -1,0 +1,8 @@
+- Roll20 as a Virtual Tabletop (VTT)
+- D&D Beyond to manage campaigns, characters and gear
+- Discord for organizing the group & video chats
+- Spotify (with a subscription) for sharing music
+	- Discord has a listen-along feature which subscribed spotify members can use to sync their playlist with the DM
+- Avrae discord bot rolls and rules references
+- DMG, PHB, MM
+	- And any other kind of resource

@@ -1,14 +1,11 @@
-# Session Template
+# Session {number}
 - Played on DD.MM.YYYY
+- Players
+	- Players that attended the game
 ## Preparation
 - *Things you prepared before the session go here*
 - Goals
 	- What the session as a whole is supposed to achieve
-### Do Not Forget
-- Fill only with critical information, if you have any
-	- A curse that's been placed on someone
-	- A super magical item
-	- A time sensitive event that can backfire if the players don't do it in time
 ### Previously
 - Short reminder about the overarching story
 	- What the players' goals are and why
@@ -16,6 +13,11 @@
 	- What the players did
 	- Where are they now
 	- What their current task is
+### Do Not Forget
+- Fill only with critical information, if you have any
+	- A curse that's been placed on someone
+	- A super magical item
+	- A time sensitive event that can backfire if the players don't do it in time
 ### Scenes
 #### Scene Name
 - Purpose
