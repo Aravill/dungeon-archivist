@@ -107,7 +107,7 @@
 	- Feel free to say "I don't have that ready"
 - Smoke and mirrors are your main DM weapons
 	- Pretend like things you didn't plan were always planned by using cheat sheets and encounter tables
-	- It's more important to know have tools for improvisation, than to be ready for everything
+	- It's more important to have tools for improvisation, than to be ready for everything
 - If players change their minds, change the backdrop of scenes, but keep the story beat
 	- A vampire queen, in an evil castle, with a scroll of ancient knowledge => A crazy nomad shaman, in a desert, with a scroll of ancient knowledge
 	- The players do not know what was planned, don't be afraid to swap out bits and pieces of the adventure while running it
